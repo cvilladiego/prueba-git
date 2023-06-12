@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'practica';
 
-  numeros = [1,4,5,6,7];
+  numeros:number[] = [1,4,5,6,7];
   bebidaDelDia = 'Manzana';
   
  
